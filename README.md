@@ -1,0 +1,7 @@
+##Background of and need for the project 
+    Burmese puppetry is an ancient form of traditional entertainment in Myanmar (Burma). It involves the use of intricately crafted puppets made from wood, cloth, and other materials, manipulated by skilled puppeteers to tell stories from Burmese folklore, mythology, and history. These puppetry performances are accompanied by live music, singing, and dance, creating a captivating and culturally rich experience. 
+    The development of the project needs experts in Burmese puppetry to be accurate representation of Burmese traditional puppetry in Metaverse, hardware devices and workforce to create a VR environment, and a hand controller to make a performance like a puppeteer
+
+
+##Direction for the XR-Metaverse Project 
+    The aim of our project is to bridge Burmese puppetry with cutting-edge Metaverse technology, digitally preserving and promoting the rich culture heritage of Burmese puppetry through creating an interactive and entertaining experience to target both local and global audience. Our system objective is to preserve and promote Burmese puppetry, and to be able to position our Metaverse project as an educational tool for schools, universities, and cultural institutions to teach about Burmese puppetry and traditional arts. As an audience, they can manipulate puppets to make performance with the support of guidelines and tutorials about how to control their chosen puppet.
